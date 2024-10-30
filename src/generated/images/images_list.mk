@@ -1,0 +1,1 @@
+GEN_CSRCS += _BGMN_320x240.c _symbol_lora_off_alpha_50x32.c _symbol_lora_on_alpha_50x32.c
